@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iWoaeErfWfoEr/BkIppitYxqCu/Sp5FN8YD5GOAvDqHDeJgN3PMp3Qo7O+O5CvAhOr9G1J4XFWPZng3KbrVzJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kymdan\\source\\repos\\QuanlyVanHanhAPI\\QuanlyVanHanhAPI\\QuanlyVanHanhAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kymdan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Kymdan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Kymdan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Kymdan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Kymdan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Kymdan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
